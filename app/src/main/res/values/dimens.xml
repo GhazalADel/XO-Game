@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="samplePad">30dp</dimen>
+    <dimen name="samplePad1">30dp</dimen>
+    <dimen name="samplePad2">30dp</dimen>
+    <dimen name="samplePad3">30dp</dimen>
+    <dimen name="samplePad4">30dp</dimen>
+    <dimen name="samplePad5">25dp</dimen>
+</resources>
